@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <string name="tiposdegastos"> tipos de gatos:</string>
+
+    <string name="valor"> valor: </string>
+
+    <string name="data"> data: </string>
+
+    <string name="descriçao"> descrição:</string>
+
+    <string name="salvar"> salvar: </string>
+
+    <string name="local"> local: </string>
+
+    <string name="selecione"> selecione: </string>
+
+    <string name="data1"> data 1 </string>
+
+    <string name="data2"> data 2 </string>
+
+    <string name="b1"> b 1 </string>
+
+    <string name="b2"> b 2 </string>
 </resources>
